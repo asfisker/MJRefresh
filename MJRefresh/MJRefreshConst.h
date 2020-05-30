@@ -59,6 +59,7 @@ UIKIT_EXTERN NSString *const MJRefreshBackFooterNoMoreDataText;
 UIKIT_EXTERN NSString *const MJRefreshHeaderLastTimeText;
 UIKIT_EXTERN NSString *const MJRefreshHeaderDateTodayText;
 UIKIT_EXTERN NSString *const MJRefreshHeaderNoneLastDateText;
+UIKIT_EXTERN NSString *const MJRefreshHeaderNoneLastDateTest;
 
 // 状态检查
 #define MJRefreshCheckState \
